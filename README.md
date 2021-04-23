@@ -48,4 +48,4 @@ Preview: [here](/img/Preview_Sketch.png)
 ## Author
 
 👤 **ArthurGC**
-* GitHub: [ArthurFC](https://github.com/ArthurGC)
+* GitHub: [ArthurGC](https://github.com/ArthurGC)
